@@ -1,6 +1,5 @@
 : '
 Variable definitions:
-
     APIGEE_ORG:
         Name of the Apigee org you want your proxy to be deployed in. Used by
         maven during proxy deployment.
