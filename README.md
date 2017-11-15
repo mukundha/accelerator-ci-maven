@@ -5,7 +5,7 @@
 The objective of this project is to implement a containarised framework that can
 be used to demonstrate best practices around continuous integration for Apigee
 projects.
-testing for changes
+
 ## Components
 
 ### Sample Apigee Proxy - Currency API
