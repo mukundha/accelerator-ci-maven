@@ -1,3 +1,2 @@
 # while in docker folder
-setup/.run-image.sh
 setup/run-image.sh
